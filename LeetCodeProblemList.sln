@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{7BFAA88A-B79B-47FC-BEAD-1DA981D7BC62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{7BFAA88A-B79B-47FC-BEAD-1DA981D7BC62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{2866F504-DD4D-456E-BBC9-8DC7A8B16F91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{2866F504-DD4D-456E-BBC9-8DC7A8B16F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedList", "MergeTwoSortedList\MergeTwoSortedList.csproj", "{34E5FD5A-C991-48EC-BF56-1B073DAB9CB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2866F504-DD4D-456E-BBC9-8DC7A8B16F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2866F504-DD4D-456E-BBC9-8DC7A8B16F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2866F504-DD4D-456E-BBC9-8DC7A8B16F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E5FD5A-C991-48EC-BF56-1B073DAB9CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E5FD5A-C991-48EC-BF56-1B073DAB9CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E5FD5A-C991-48EC-BF56-1B073DAB9CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E5FD5A-C991-48EC-BF56-1B073DAB9CB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
